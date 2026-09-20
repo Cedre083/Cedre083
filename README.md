@@ -33,5 +33,5 @@ Pas de science sans conscience. »
 
 ## 📬 Contact
 **contact@demainlhomme.org**  
-France – Provence
+France - Provence
 
