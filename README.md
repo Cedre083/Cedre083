@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="banner-github.jpg" alt="Bannière GitHub" />
+</p>
+
 # 🌿 Cédric – Creative Director & Technical Lead
 
 Bienvenue sur mon espace GitHub.
