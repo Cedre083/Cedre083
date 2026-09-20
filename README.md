@@ -1,6 +1,7 @@
 <p align="center">
-  <img src="baniere élégante.png" alt="Bannière GitHub" />
+  <img src="baniere élégante.png" alt="Bannière GitHub élégante" width="1280" height="640">
 </p>
+
 
 # 🌿 Cédric – Creative Director & Technical Lead
 
