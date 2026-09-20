@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="banner-github.jpg" alt="Bannière GitHub" />
+  <img src="baniere élégante.png" alt="Bannière GitHub" />
 </p>
 
 # 🌿 Cédric – Creative Director & Technical Lead
